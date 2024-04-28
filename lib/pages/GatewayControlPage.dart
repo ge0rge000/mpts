@@ -18,7 +18,7 @@ class GatewayControlPage extends StatelessWidget {
       buttonTheme: ButtonThemeData(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(30)),
         buttonColor: Colors.black,
-        textTheme: ButtonTextTheme.primary,
+ 
       ),
     );
 
