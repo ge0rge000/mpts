@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968747475828",
+    "project_id": "baassari-dd9e0",
+    "storage_bucket": "baassari-dd9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968747475828:android:152b1a66105f6ebba18221",
+        "android_client_info": {
+          "package_name": "com.example.remote_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rU1iEYiXx4nczmGmMy7RWny1qxh7a7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968747475828:android:d6fff7b75fcf8d0ca18221",
+        "android_client_info": {
+          "package_name": "com.mpts.bassari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1rU1iEYiXx4nczmGmMy7RWny1qxh7a7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
